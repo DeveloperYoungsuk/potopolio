@@ -14,5 +14,8 @@ class MainActivity : AppCompatActivity() {
         intent
         intent
         intent
+        intent
+        intent
+        intent
     }
 }
