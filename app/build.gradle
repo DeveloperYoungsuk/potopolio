@@ -70,7 +70,10 @@ dependencies {
 
     implementation 'de.hdodenhof:circleimageview:3.1.0'
 
+<<<<<<< HEAD
     implementation 'com.makeramen:roundedimageview:2.3.0'
 
 
+=======
+>>>>>>> 95f7c48fbb7aa6c43c0f2311e598f366028cf03e
 }

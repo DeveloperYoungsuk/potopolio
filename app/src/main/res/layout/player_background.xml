@@ -7,6 +7,7 @@
     android:background="@color/colorBackground"
     tools:context=".MusicDetailActivity">
 
+<<<<<<< HEAD
     <View
         android:id="@+id/viewSupporterForBackground"
         android:layout_width="1dp"
@@ -120,6 +121,8 @@
 
 
 
+=======
+>>>>>>> 95f7c48fbb7aa6c43c0f2311e598f366028cf03e
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/layoutPlayer"
         android:layout_width="match_parent"
