@@ -53,12 +53,13 @@ public class LoginActivity extends Activity {
 
 
 
-
-
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+
+
+
 
         sf = getSharedPreferences("logindata",MODE_PRIVATE);
         editor = sf.edit();
